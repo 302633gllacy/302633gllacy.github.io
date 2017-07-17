@@ -1,0 +1,247 @@
+.sprite {
+    background-image: url(../img/sprite.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-R {
+    width: 31px;
+    height: 36px;
+    background-position: -10px -10px;
+}
+
+.sprite-arrow-enable {
+    width: 9px;
+    height: 14px;
+    background-position: -10px -66px;
+}
+
+.sprite-arrow-white {
+    width: 9px;
+    height: 14px;
+    background-position: -10px -100px;
+}
+
+.sprite-busket {
+    width: 21px;
+    height: 20px;
+    background-position: -10px -134px;
+}
+
+.sprite-busket-red {
+    width: 21px;
+    height: 20px;
+    background-position: -10px -174px;
+}
+
+.sprite-checkbox {
+    width: 20px;
+    height: 20px;
+    background-position: -10px -214px;
+}
+
+.sprite-checkbox-checked {
+    width: 20px;
+    height: 20px;
+    background-position: -10px -254px;
+}
+
+.sprite-checkbox-checked-disabled {
+    width: 20px;
+    height: 20px;
+    background-position: -10px -294px;
+}
+
+.sprite-checkbox-checked-hover {
+    width: 20px;
+    height: 20px;
+    background-position: -10px -334px;
+}
+
+.sprite-checkbox-disabled {
+    width: 20px;
+    height: 20px;
+    background-position: -10px -374px;
+}
+
+.sprite-checkbox-hover {
+    width: 20px;
+    height: 20px;
+    background-position: -10px -414px;
+}
+
+.sprite-close {
+    width: 11px;
+    height: 11px;
+    background-position: -10px -454px;
+}
+
+.sprite-cow-icon {
+    width: 48px;
+    height: 49px;
+    background-position: -10px -485px;
+}
+
+.sprite-entrance {
+    width: 21px;
+    height: 19px;
+    background-position: -10px -554px;
+}
+
+.sprite-entrance-black {
+    width: 21px;
+    height: 19px;
+    background-position: -10px -593px;
+}
+
+.sprite-fb-active {
+    width: 32px;
+    height: 32px;
+    background-position: -10px -632px;
+}
+
+.sprite-fb-white {
+    width: 32px;
+    height: 32px;
+    background-position: -10px -684px;
+}
+
+.sprite-fn-icon {
+    width: 32px;
+    height: 32px;
+    background-position: -10px -736px;
+}
+
+.sprite-heart-icon {
+    width: 15px;
+    height: 13px;
+    background-position: -10px -788px;
+}
+
+.sprite-hit {
+    width: 61px;
+    height: 61px;
+    background-position: -10px -821px;
+}
+
+.sprite-ice-cream-icon {
+    width: 49px;
+    height: 49px;
+    background-position: -10px -902px;
+}
+
+.sprite-ice-cream-small-1 {
+    width: 33px;
+    height: 33px;
+    background-position: -10px -971px;
+}
+
+.sprite-ice-cream-small-2 {
+    width: 33px;
+    height: 33px;
+    background-position: -10px -1024px;
+}
+
+.sprite-inst-active {
+    width: 32px;
+    height: 32px;
+    background-position: -10px -1077px;
+}
+
+
+
+.sprite-inst-icon {
+    width: 32px;
+    height: 32px;
+    background-position: -10px -1129px;
+}
+
+.sprite-inst-white {
+    width: 32px;
+    height: 32px;
+    background-position: -10px -1181px;
+}
+
+.sprite-leaf-icon {
+    width: 49px;
+    height: 49px;
+    background-position: -10px -1233px;
+}
+
+.sprite-loupe {
+    width: 17px;
+    height: 17px;
+    background-position: -10px -1302px;
+}
+
+.sprite-loupe-black {
+    width: 17px;
+    height: 17px;
+    background-position: -10px -1339px;
+}
+
+.sprite-marker {
+    width: 218px;
+    height: 142px;
+    background-position: -10px -1376px;
+}
+
+.sprite-marker-1 {
+    width: 9px;
+    height: 5px;
+    background-position: -10px -1538px;
+}
+
+.sprite-marker-white {
+    width: 9px;
+    height: 5px;
+    background-position: -10px -1563px;
+}
+
+.sprite-thermometr-icon {
+    width: 48px;
+    height: 49px;
+    background-position: -10px -1588px;
+}
+
+.sprite-tw-active {
+    width: 1460px;
+    height: 2760px;
+    background-position: -10px -1657px;
+}
+
+.sprite-tw-icon {
+    width: 32px;
+    height: 32px;
+    background-position: -10px -4437px;
+}
+
+.sprite-tw-shadow {
+    width: 33px;
+    height: 32px;
+    background-position: -10px -4489px;
+}
+
+.sprite-tw-white {
+    width: 32px;
+    height: 32px;
+    background-position: -10px -4541px;
+}
+
+.sprite-vk-active {
+    width: 32px;
+    height: 32px;
+    background-position: -10px -4593px;
+}
+
+.sprite-vk-icon {
+    width: 32px;
+    height: 32px;
+    background-position: -10px -4645px;
+}
+
+.sprite-vk-white {
+    width: 32px;
+    height: 32px;
+    background-position: -10px -4697px;
+}
